@@ -1,0 +1,14 @@
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\bin\Debug\net10.0\TaskTracker.exe
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\bin\Debug\net10.0\TaskTracker.deps.json
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\bin\Debug\net10.0\TaskTracker.runtimeconfig.json
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\bin\Debug\net10.0\TaskTracker.dll
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\bin\Debug\net10.0\TaskTracker.pdb
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\obj\Debug\net10.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\obj\Debug\net10.0\TaskTracker.AssemblyInfoInputs.cache
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\obj\Debug\net10.0\TaskTracker.AssemblyInfo.cs
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\obj\Debug\net10.0\TaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\obj\Debug\net10.0\TaskTracker.dll
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\obj\Debug\net10.0\refint\TaskTracker.dll
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\obj\Debug\net10.0\TaskTracker.pdb
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\obj\Debug\net10.0\TaskTracker.genruntimeconfig.cache
+C:\Users\tigra\Desktop\C# projects\TaskTracker\TaskTracker\obj\Debug\net10.0\ref\TaskTracker.dll
