@@ -23,22 +23,22 @@ Each task includes:
 ## Requirements
 - .NET SDK installed (compatible with the target framework in the project)
 ------------------------------------------
-## Commands Examples
-# Adding a new task
+# Commands Examples
+## Adding a new task
 TaskTracker add "Buy groceries"
 
-# Updating and deleting tasks
+## Updating and deleting tasks
 TaskTracker update 1 "Buy groceries and cook dinner"
 TaskTracker delete 1
 
-# Marking a task as in progress or done
+## Marking a task as in progress or done
 TaskTracker mark in_progress 1
 TaskTracker mark-done 1
 
-# Listing all tasks
+## Listing all tasks
 TaskTracker list
 
-# Listing tasks by status
+## Listing tasks by status
 TaskTracker list done
 TaskTracker list todo
 TaskTracker list in-progress
