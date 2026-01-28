@@ -39,6 +39,7 @@ TaskTracker mark-done 1
 TaskTracker list
 
 ## Listing tasks by status
+
 TaskTracker list done
 TaskTracker list todo
 TaskTracker list in-progress
